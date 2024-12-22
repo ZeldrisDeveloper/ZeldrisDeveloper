@@ -7,3 +7,8 @@ I am just here to share my achievements
 | Introduction to Networking | <img src="https://github.com/ZeldrisDeveloper/ZeldrisDeveloper/blob/main/bold-red-x-symbol-50ixsnpb9qmntldd.jpg" width="50" height="50"> | ⌛ not completed | 12/20/2024 |
 
 
+Starting Point Badges 0/3
+|---|---|---|---|
+| Complete Tier 0 of Starting Point |
+
+
