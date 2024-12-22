@@ -12,3 +12,8 @@ Starting Point Badges 0/3
 | Complete Tier 0 of Starting Point |
 
 
+| Starting Point Badges 0/3 |
+|---|---|---|---|
+| Complete Tier 0 of Starting Point| <img src="https://github.com/ZeldrisDeveloper/ZeldrisDeveloper/blob/main/bold-red-x-symbol-50ixsnpb9qmntldd.jpg" width="50" height="50"> | ⌛ not completed | 12/11/2024 |
+| HackTheBox Getting Started | <img src="https://github.com/ZeldrisDeveloper/ZeldrisDeveloper/blob/main/bold-red-x-symbol-50ixsnpb9qmntldd.jpg" width="50" height="50"> | ⌛ not completed | 12/20/2024 |
+| Introduction to Networking | <img src="https://github.com/ZeldrisDeveloper/ZeldrisDeveloper/blob/main/bold-red-x-symbol-50ixsnpb9qmntldd.jpg" width="50" height="50"> | ⌛ not completed | 12/20/2024 |
